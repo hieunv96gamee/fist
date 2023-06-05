@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "8956f261-8440-4983-ae76-08459d2c5385",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 80,
+  "height": 138,
+  "platformSettings": {},
+  "subMetas": {
+    "TeleFX": {
+      "ver": "1.0.4",
+      "uuid": "7810058c-083a-4a14-b378-7eb18ee44863",
+      "rawTextureUuid": "8956f261-8440-4983-ae76-08459d2c5385",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 80,
+      "height": 138,
+      "rawWidth": 80,
+      "rawHeight": 138,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

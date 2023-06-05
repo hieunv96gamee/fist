@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "f2c8799e-e670-435d-9ead-0550536523a5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 21,
+  "height": 147,
+  "platformSettings": {},
+  "subMetas": {
+    "home_pin_baseball_bat": {
+      "ver": "1.0.4",
+      "uuid": "ddae7855-4426-4d87-91d2-9152a94e9e8e",
+      "rawTextureUuid": "f2c8799e-e670-435d-9ead-0550536523a5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 21,
+      "height": 147,
+      "rawWidth": 21,
+      "rawHeight": 147,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

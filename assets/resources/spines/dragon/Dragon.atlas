@@ -1,0 +1,237 @@
+
+Dragon.png
+size: 856,856
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 2125
+  rotate: false
+  xy: 35, 208
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+Group 2126
+  rotate: false
+  xy: 824, 303
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Group 2127
+  rotate: true
+  xy: 290, 154
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+Group 2128
+  rotate: true
+  xy: 2, 204
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Group 2129
+  rotate: true
+  xy: 664, 613
+  size: 241, 184
+  orig: 241, 184
+  offset: 0, 0
+  index: -1
+Group 2130
+  rotate: true
+  xy: 250, 344
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+Group 2131
+  rotate: true
+  xy: 556, 59
+  size: 148, 93
+  orig: 148, 93
+  offset: 0, 0
+  index: -1
+Group 2132
+  rotate: false
+  xy: 664, 335
+  size: 167, 276
+  orig: 167, 276
+  offset: 0, 0
+  index: -1
+Group 2133 copy
+  rotate: false
+  xy: 2, 547
+  size: 330, 307
+  orig: 330, 307
+  offset: 0, 0
+  index: -1
+Group 2134
+  rotate: false
+  xy: 2, 235
+  size: 231, 150
+  orig: 231, 150
+  offset: 0, 0
+  index: -1
+Group 2135 copy
+  rotate: true
+  xy: 556, 209
+  size: 94, 99
+  orig: 94, 99
+  offset: 0, 0
+  index: -1
+Group 2136 copy
+  rotate: true
+  xy: 570, 401
+  size: 140, 92
+  orig: 140, 92
+  offset: 0, 0
+  index: -1
+Group 2137 copy
+  rotate: false
+  xy: 242, 28
+  size: 96, 100
+  orig: 96, 100
+  offset: 0, 0
+  index: -1
+Group 2138
+  rotate: false
+  xy: 332, 208
+  size: 222, 119
+  orig: 222, 119
+  offset: 0, 0
+  index: -1
+Layer 161 copy
+  rotate: false
+  xy: 660, 237
+  size: 162, 96
+  orig: 162, 96
+  offset: 0, 0
+  index: -1
+V2/Layer 10
+  rotate: true
+  xy: 657, 15
+  size: 220, 140
+  orig: 220, 140
+  offset: 0, 0
+  index: -1
+V2/Layer 11
+  rotate: true
+  xy: 570, 305
+  size: 94, 88
+  orig: 94, 88
+  offset: 0, 0
+  index: -1
+V2/Layer 11 copy
+  rotate: true
+  xy: 570, 305
+  size: 94, 88
+  orig: 94, 88
+  offset: 0, 0
+  index: -1
+V2/Layer 12
+  rotate: true
+  xy: 2, 5
+  size: 197, 114
+  orig: 197, 114
+  offset: 0, 0
+  index: -1
+V2/Layer 2
+  rotate: true
+  xy: 232, 130
+  size: 72, 56
+  orig: 72, 56
+  offset: 0, 0
+  index: -1
+V2/Layer 3
+  rotate: false
+  xy: 332, 329
+  size: 236, 212
+  orig: 236, 212
+  offset: 0, 0
+  index: -1
+V2/Layer 4
+  rotate: false
+  xy: 833, 569
+  size: 19, 42
+  orig: 19, 42
+  offset: 0, 0
+  index: -1
+V2/Layer 5
+  rotate: false
+  xy: 118, 115
+  size: 112, 118
+  orig: 112, 118
+  offset: 0, 0
+  index: -1
+V2/Layer 6
+  rotate: true
+  xy: 2, 387
+  size: 158, 246
+  orig: 158, 246
+  offset: 0, 0
+  index: -1
+V2/Layer 6-1
+  rotate: true
+  xy: 235, 204
+  size: 138, 95
+  orig: 138, 95
+  offset: 0, 0
+  index: -1
+V2/copy
+  rotate: true
+  xy: 235, 204
+  size: 138, 95
+  orig: 138, 95
+  offset: 0, 0
+  index: -1
+V2/Layer 7
+  rotate: false
+  xy: 118, 13
+  size: 122, 100
+  orig: 122, 100
+  offset: 0, 0
+  index: -1
+V2/Layer 7 copy
+  rotate: false
+  xy: 118, 13
+  size: 122, 100
+  orig: 122, 100
+  offset: 0, 0
+  index: -1
+V2/Layer 8
+  rotate: true
+  xy: 250, 404
+  size: 141, 80
+  orig: 141, 80
+  offset: 0, 0
+  index: -1
+V2/Layer 8 copy
+  rotate: true
+  xy: 250, 404
+  size: 141, 80
+  orig: 141, 80
+  offset: 0, 0
+  index: -1
+V2/Layer 9 copy
+  rotate: false
+  xy: 334, 543
+  size: 328, 311
+  orig: 328, 311
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 833, 559
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+ice
+  rotate: false
+  xy: 340, 46
+  size: 140, 160
+  orig: 140, 160
+  offset: 0, 0
+  index: -1

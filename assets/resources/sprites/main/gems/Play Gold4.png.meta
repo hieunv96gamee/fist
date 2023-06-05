@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "4127549b-49b0-4358-acee-8269131520d1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 21,
+  "height": 21,
+  "platformSettings": {},
+  "subMetas": {
+    "Play Gold4": {
+      "ver": "1.0.4",
+      "uuid": "acae5d92-0523-463a-9582-842cc426f6be",
+      "rawTextureUuid": "4127549b-49b0-4358-acee-8269131520d1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 21,
+      "height": 21,
+      "rawWidth": 21,
+      "rawHeight": 21,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

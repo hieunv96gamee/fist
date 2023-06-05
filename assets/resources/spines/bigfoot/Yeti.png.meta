@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "7e808ade-0881-4ccd-8d5f-704bfb457cd8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 556,
+  "height": 556,
+  "platformSettings": {},
+  "subMetas": {
+    "Yeti": {
+      "ver": "1.0.4",
+      "uuid": "f9fb1152-1f66-43b3-969f-a3e540c2a7f4",
+      "rawTextureUuid": "7e808ade-0881-4ccd-8d5f-704bfb457cd8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": 0.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 548,
+      "height": 551,
+      "rawWidth": 556,
+      "rawHeight": 556,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

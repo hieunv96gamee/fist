@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "d9f83c2f-dd6e-41f6-ae44-ad60e9350e49",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 245,
+  "height": 263,
+  "platformSettings": {},
+  "subMetas": {
+    "Spring island": {
+      "ver": "1.0.4",
+      "uuid": "ac4c2385-7ebd-48d0-817b-6e2d454e8c99",
+      "rawTextureUuid": "d9f83c2f-dd6e-41f6-ae44-ad60e9350e49",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 245,
+      "height": 263,
+      "rawWidth": 245,
+      "rawHeight": 263,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

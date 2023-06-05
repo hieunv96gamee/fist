@@ -1,0 +1,41 @@
+
+Pow.png
+size: 564,564
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ellipse 1 copy
+  rotate: false
+  xy: 2, 2
+  size: 110, 111
+  orig: 110, 111
+  offset: 0, 0
+  index: -1
+Ellipse 1 copy 2
+  rotate: false
+  xy: 111, 133
+  size: 213, 428
+  orig: 213, 428
+  offset: 0, 0
+  index: -1
+Ellipse 1 copy 3
+  rotate: false
+  xy: 114, 20
+  size: 109, 111
+  orig: 109, 111
+  offset: 0, 0
+  index: -1
+Ellipse 1 copy 4
+  rotate: false
+  xy: 225, 20
+  size: 109, 111
+  orig: 109, 111
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 2, 115
+  size: 107, 446
+  orig: 107, 446
+  offset: 0, 0
+  index: -1

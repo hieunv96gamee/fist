@@ -1,0 +1,9 @@
+{
+  "castle": {
+    "spring": {
+      "builder": "SpringBuildPopup",
+      "kingdom": "SpringKingdom"
+    }
+  }
+
+}

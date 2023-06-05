@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "348ecf1c-e44b-4f1e-83fa-76d4f721679e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 221,
+  "height": 231,
+  "platformSettings": {},
+  "subMetas": {
+    "Autums island": {
+      "ver": "1.0.4",
+      "uuid": "e68aeb42-eb53-405d-bb98-6e3dd2044863",
+      "rawTextureUuid": "348ecf1c-e44b-4f1e-83fa-76d4f721679e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 221,
+      "height": 231,
+      "rawWidth": 221,
+      "rawHeight": 231,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

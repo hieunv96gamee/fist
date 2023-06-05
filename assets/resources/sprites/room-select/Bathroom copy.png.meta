@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "0c4ae0f0-5c02-45aa-bf17-16bb5714aab1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 172,
+  "height": 206,
+  "platformSettings": {},
+  "subMetas": {
+    "Bathroom copy": {
+      "ver": "1.0.4",
+      "uuid": "4d68e8d4-5df1-4c28-ba18-41342bcbae8d",
+      "rawTextureUuid": "0c4ae0f0-5c02-45aa-bf17-16bb5714aab1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 172,
+      "height": 206,
+      "rawWidth": 172,
+      "rawHeight": 206,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ca366101-d730-4801-b12f-3320b31d8fbb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 229,
+  "height": 217,
+  "platformSettings": {},
+  "subMetas": {
+    "Winter island": {
+      "ver": "1.0.4",
+      "uuid": "5490dd12-13af-46ed-9b9e-e0a15be2b56d",
+      "rawTextureUuid": "ca366101-d730-4801-b12f-3320b31d8fbb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 229,
+      "height": 217,
+      "rawWidth": 229,
+      "rawHeight": 217,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

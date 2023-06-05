@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9f8985df-de35-4def-8a90-1bd59e4743cc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 239,
+  "height": 204,
+  "platformSettings": {},
+  "subMetas": {
+    "Summer island": {
+      "ver": "1.0.4",
+      "uuid": "c3ca038c-1eeb-4919-935a-37fa3e696282",
+      "rawTextureUuid": "9f8985df-de35-4def-8a90-1bd59e4743cc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 239,
+      "height": 204,
+      "rawWidth": 239,
+      "rawHeight": 204,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

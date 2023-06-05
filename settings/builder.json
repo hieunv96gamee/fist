@@ -1,0 +1,62 @@
+{
+  "title": "Home-Pin-Cocos",
+  "packageName": "org.cocos2d.demo",
+  "startScene": "a6d98d1b-c090-4d99-91d5-c88452ad96b2",
+  "excludeScenes": [
+    "982df6e9-daf1-417f-a8c5-7d3d9e33bc63",
+    "639897da-b39b-4014-b75c-f0073faa8cba"
+  ],
+  "orientation": {
+    "landscapeRight": false,
+    "landscapeLeft": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "webOrientation": "portrait",
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "mainCompressionType": "default",
+  "mainIsRemote": false,
+  "optimizeHotUpdate": false,
+  "md5Cache": false,
+  "nativeMd5Cache": false,
+  "encryptJs": true,
+  "xxteaKey": "b9a13117-6e8c-4b",
+  "zipCompressJs": true,
+  "fb-instant-games": {},
+  "android": {
+    "packageName": "com.gamee.cocos.homepin",
+    "REMOTE_SERVER_ROOT": ""
+  },
+  "ios": {
+    "packageName": "org.cocos2d.demo",
+    "REMOTE_SERVER_ROOT": "",
+    "ios_enable_jit": true
+  },
+  "mac": {
+    "packageName": "org.cocos2d.demo",
+    "REMOTE_SERVER_ROOT": "",
+    "width": 1280,
+    "height": 720
+  },
+  "win32": {
+    "REMOTE_SERVER_ROOT": "",
+    "width": 1280,
+    "height": 720
+  },
+  "android-instant": {
+    "packageName": "org.cocos2d.demo",
+    "REMOTE_SERVER_ROOT": "http://192.168.0.100:7456/preview-android-instant/",
+    "pathPattern": "",
+    "scheme": "https",
+    "host": "",
+    "skipRecord": false,
+    "recordPath": ""
+  },
+  "appBundle": false,
+  "agreements": {
+    "20200831115453": false,
+    "20200831115431": false
+  },
+  "includeAnySDK": false
+}

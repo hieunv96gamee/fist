@@ -1,0 +1,268 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "",
+    "_objFlags": 0,
+    "_native": "",
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "asyncLoadAssets": false,
+    "readonly": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "SpringBuilder",
+    "_objFlags": 0,
+    "_parent": null,
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_prefab": {
+      "__id__": 10
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 0,
+      "height": 0
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "5cd3e60dv1O+KEpmjqVRSZ0",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "kingdomName": "spring",
+    "arrayConfig": [
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 4
+      },
+      {
+        "__id__": 5
+      },
+      {
+        "__id__": 6
+      },
+      {
+        "__id__": 7
+      },
+      {
+        "__id__": 8
+      },
+      {
+        "__id__": 9
+      }
+    ],
+    "_id": ""
+  },
+  {
+    "__type__": "HouseItemConfig",
+    "houseName": "spring_1",
+    "houseFrames": [
+      {
+        "__uuid__": "d7fa150a-dcc1-43ef-961e-5d8e5e66db21"
+      },
+      {
+        "__uuid__": "12dd1038-ddf5-4de3-9cde-ee8d3c0dccc7"
+      },
+      {
+        "__uuid__": "9d8cddf5-122c-4f3e-ae6c-fa0ff01a6a56"
+      },
+      {
+        "__uuid__": "7f7a288e-02c1-4aa6-a499-31974b8b320e"
+      },
+      {
+        "__uuid__": "2f3c0a00-8db8-468f-9a8d-fcd8dd3fa823"
+      }
+    ]
+  },
+  {
+    "__type__": "HouseItemConfig",
+    "houseName": "spring_2",
+    "houseFrames": [
+      {
+        "__uuid__": "0c147ee5-582d-4602-bfe0-0fee42b815e8"
+      },
+      {
+        "__uuid__": "dbafe41d-5901-4e80-a50f-840f57c0f574"
+      },
+      {
+        "__uuid__": "dbafe41d-5901-4e80-a50f-840f57c0f574"
+      },
+      {
+        "__uuid__": "ab2bae69-e5dd-4db1-a670-0f6327751c1a"
+      },
+      {
+        "__uuid__": "1687546c-85b4-4dfe-8d37-056a8c636cbf"
+      }
+    ]
+  },
+  {
+    "__type__": "HouseItemConfig",
+    "houseName": "spring_3",
+    "houseFrames": [
+      {
+        "__uuid__": "f0f65c4f-64d6-4e49-aec9-ae7144a2f374"
+      },
+      {
+        "__uuid__": "65aa61cc-6e9e-421b-a104-b8d748552aea"
+      },
+      {
+        "__uuid__": "d26eac67-3d27-423f-8724-917ec649ee1c"
+      },
+      {
+        "__uuid__": "6d78238e-133b-4960-a18f-43f83cdffe5f"
+      },
+      {
+        "__uuid__": "a034d494-f6ba-429f-a973-4666a0ae57b5"
+      }
+    ]
+  },
+  {
+    "__type__": "HouseItemConfig",
+    "houseName": "spring_4",
+    "houseFrames": [
+      {
+        "__uuid__": "ed52359b-56d8-4052-b2a1-b31541ed444d"
+      },
+      {
+        "__uuid__": "c9b861c5-833a-45e9-a2e5-6acc6b2c79ab"
+      },
+      {
+        "__uuid__": "0dab7b94-341e-433d-8bf2-ee093a19ded3"
+      },
+      {
+        "__uuid__": "9c872a92-a598-4dfe-a28f-f6c626ec6474"
+      },
+      {
+        "__uuid__": "4dad3cdc-ce48-43eb-969d-761e799375a0"
+      }
+    ]
+  },
+  {
+    "__type__": "HouseItemConfig",
+    "houseName": "spring_5",
+    "houseFrames": [
+      {
+        "__uuid__": "16c7ebb5-1a09-4ffe-b5b1-cf585f73b9bb"
+      },
+      {
+        "__uuid__": "1fbca04b-8f65-477d-a3a3-108799d8b032"
+      },
+      {
+        "__uuid__": "44d41788-c6f1-46f9-9175-23fa6797b1fb"
+      },
+      {
+        "__uuid__": "df55a911-41bd-4343-8731-10ef9d9fb4f9"
+      },
+      {
+        "__uuid__": "2ef69691-fc79-4c58-a5a6-6383643058d2"
+      }
+    ]
+  },
+  {
+    "__type__": "HouseItemConfig",
+    "houseName": "spring_6",
+    "houseFrames": [
+      {
+        "__uuid__": "2026878b-90b8-45a6-ba44-69a0e163a62e"
+      },
+      {
+        "__uuid__": "35475d9a-1865-459b-a2ce-dc2b5f369205"
+      },
+      {
+        "__uuid__": "9bde8763-0b21-4d33-b60f-68d94269c29f"
+      },
+      {
+        "__uuid__": "cdf57ae6-8d0a-44bf-8498-b30d86b57a7c"
+      },
+      {
+        "__uuid__": "e8b43175-0ca8-44b1-b668-66330de7098c"
+      }
+    ]
+  },
+  {
+    "__type__": "HouseItemConfig",
+    "houseName": "spring_7",
+    "houseFrames": [
+      {
+        "__uuid__": "3374a777-4a18-47b1-bb3b-3f86a75b6a29"
+      },
+      {
+        "__uuid__": "6321e567-f528-4045-9ae2-4b4b6683a9d5"
+      },
+      {
+        "__uuid__": "35615037-04f2-4fa3-95e4-5c2adbbc5011"
+      },
+      {
+        "__uuid__": "45ee84d4-4fc0-4f1a-8abb-28d5c99e5464"
+      },
+      {
+        "__uuid__": "a06a549c-1ef3-4b00-bac4-0c367b5ef87e"
+      }
+    ]
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "e099bed0-8b55-40cb-9302-f35918e36bac"
+    },
+    "fileId": "",
+    "sync": false
+  }
+]

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+
+  <title>Cocos Creator | Home-Pin-Cocos</title>
+
+  <!--http://www.html5rocks.com/en/mobile/mobifying/-->
+  <meta name="viewport"
+        content="width=device-width,user-scalable=no,initial-scale=1, minimum-scale=1,maximum-scale=1"/>
+
+  <!--https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariHTMLRef/Articles/MetaTags.html-->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="format-detection" content="telephone=no">
+
+  <!-- force webkit on 360 -->
+  <meta name="renderer" content="webkit"/>
+  <meta name="force-rendering" content="webkit"/>
+  <!-- force edge on IE -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+  <meta name="msapplication-tap-highlight" content="no">
+
+  <!-- force full screen on some browser -->
+  <meta name="full-screen" content="yes"/>
+  <meta name="x5-fullscreen" content="true"/>
+  <meta name="360-fullscreen" content="true"/>
+  
+  <!-- force screen orientation on some browser -->
+  <meta name="screen-orientation" content="portrait"/>
+  <meta name="x5-orientation" content="portrait">
+
+  <!--fix fireball/issues/3568 -->
+  <!--<meta name="browsermode" content="application">-->
+  <meta name="x5-page-mode" content="app">
+
+  <!--<link rel="apple-touch-icon" href=".png" />-->
+  <!--<link rel="apple-touch-icon-precomposed" href=".png" />-->
+
+  <link rel="stylesheet" type="text/css" href="style-mobile.css"/>
+
+</head>
+<body>
+  <canvas id="GameCanvas" oncontextmenu="event.preventDefault()" tabindex="0"></canvas>
+  <!-- GameAnalytics -->
+  <script src="GameAnalytics.min.js" charset="utf-8"></script>
+	<script>
+	(function(w,d,a,m){var s='script';var g='GameAnalytics';w[g]=w[g]||function(){(w[g].q=w[g].q||[]).push(arguments)},a=d.createElement(s),m=d.getElementsByTagName(s)[0];a.async=1;a.src='GameAnalytics.min.js';m.parentNode.insertBefore(a,m)})(window,document);
+
+
+	</script>
+  <!-- End GameAnalytics -->
+  
+  <script src="https://connect.facebook.net/en_US/fbinstant.6.3.js"></script>
+  <script src="src/settings.js" charset="utf-8"></script>
+
+  <script type="text/javascript">
+  
+	var isDev = false;
+  
+	var adsConfig = {
+		Interstitial: "325403755628180_329347985233757",
+        Rewarded: "325403755628180_329348095233746",
+        distanceTime: 30,
+        distanceLevel: 2,
+    };
+	
+	var templateShare = 'Try Home Pin Now';
+	var templateInvite = {
+		cta: 'Play',
+		text: {
+			default: 'Try Home Pin Now',
+			localizations: {
+				ar_AR: 'Try Home Pin Now',
+				en_US: 'Try Home Pin Now',
+				es_LA: 'Try Home Pin Now',
+			}
+		}
+	}
+  
+  </script>
+  
+	<!-- The core Firebase JS SDK is always required and must be listed first -->
+	<script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-app.js"></script>
+
+	<!-- TODO: Add SDKs for Firebase products that you want to use
+		 https://firebase.google.com/docs/web/setup#available-libraries -->
+	<script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-analytics.js"></script>
+	<script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-remote-config.js"></script>
+
+	<script>
+	  // Your web app's Firebase configuration
+	  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+	  var firebaseConfig = {
+		apiKey: "AIzaSyB6IoLK4mJGMS7Ixb9e0eFm3JZBKjQSgII",
+		authDomain: "home-pin-facebook-f9e89.firebaseapp.com",
+		projectId: "home-pin-facebook-f9e89",
+		storageBucket: "home-pin-facebook-f9e89.appspot.com",
+		messagingSenderId: "918750571359",
+		appId: "1:918750571359:web:9f3c1780e4f7a25235e4ea",
+		measurementId: "G-LZ61NML595"
+	  };
+	  // Initialize Firebase
+	  firebase.initializeApp(firebaseConfig);
+	  firebase.analytics();
+	  gtag('config', 'G-LZ61NML595', { cookie_flags: 'max-age=7200;secure;samesite=none' });
+	  
+	  window.addEventListener("beforeunload", function (e) {
+			e = e || window.event;
+			window['Loading'].onQuitGame
+		});
+	  
+	  var remoteConfig = firebase.remoteConfig();
+	  remoteConfig.settings.minimumFetchIntervalMillis = 0;
+	  remoteConfig.defaultConfig = {
+		  "enable_ads": 0
+		};
+
+	</script>
+  
+  <script src="main.js" charset="utf-8"></script>
+</body>
+</html>

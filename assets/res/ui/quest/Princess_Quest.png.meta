@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "f1ce9cb7-82f1-4306-baaa-9488d152e501",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 82,
+  "height": 81,
+  "platformSettings": {},
+  "subMetas": {
+    "Princess_Quest": {
+      "ver": "1.0.4",
+      "uuid": "349e8c4e-b8cf-4581-9b32-b26371ec3093",
+      "rawTextureUuid": "f1ce9cb7-82f1-4306-baaa-9488d152e501",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 82,
+      "height": 81,
+      "rawWidth": 82,
+      "rawHeight": 81,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

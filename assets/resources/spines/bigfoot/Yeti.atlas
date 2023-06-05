@@ -1,0 +1,188 @@
+
+Yeti.png
+size: 556,556
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 10
+  rotate: true
+  xy: 441, 225
+  size: 77, 109
+  orig: 77, 109
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: false
+  xy: 139, 3
+  size: 96, 116
+  orig: 96, 116
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 468, 10
+  size: 57, 63
+  orig: 57, 63
+  offset: 0, 0
+  index: -1
+Layer 12 copy
+  rotate: false
+  xy: 468, 10
+  size: 57, 63
+  orig: 57, 63
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: false
+  xy: 350, 100
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+Layer 13 copy
+  rotate: false
+  xy: 350, 100
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 204, 498
+  size: 72, 26
+  orig: 72, 26
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: true
+  xy: 204, 418
+  size: 78, 32
+  orig: 78, 32
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: true
+  xy: 350, 415
+  size: 138, 188
+  orig: 138, 188
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 441, 304
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 237, 3
+  size: 111, 122
+  orig: 111, 122
+  offset: 0, 0
+  index: -1
+Layer 80
+  rotate: false
+  xy: 350, 7
+  size: 116, 66
+  orig: 116, 66
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 2, 121
+  size: 179, 205
+  orig: 179, 205
+  offset: 0, 0
+  index: -1
+V2/Layer 10
+  rotate: false
+  xy: 2, 328
+  size: 200, 225
+  orig: 200, 225
+  offset: 0, 0
+  index: -1
+V2/Layer 11
+  rotate: true
+  xy: 2, 2
+  size: 117, 135
+  orig: 117, 135
+  offset: 0, 0
+  index: -1
+V2/Layer 12
+  rotate: false
+  xy: 183, 127
+  size: 94, 199
+  orig: 94, 199
+  offset: 0, 0
+  index: -1
+V2/Layer 13
+  rotate: true
+  xy: 279, 493
+  size: 60, 69
+  orig: 60, 69
+  offset: 0, 0
+  index: -1
+V2/Layer 13 copy
+  rotate: true
+  xy: 279, 432
+  size: 59, 68
+  orig: 59, 68
+  offset: 0, 0
+  index: -1
+V2/Layer 14
+  rotate: false
+  xy: 341, 352
+  size: 98, 61
+  orig: 98, 61
+  offset: 0, 0
+  index: -1
+V2/Layer 14 copy
+  rotate: false
+  xy: 341, 352
+  size: 98, 61
+  orig: 98, 61
+  offset: 0, 0
+  index: -1
+V2/Layer 15
+  rotate: true
+  xy: 204, 330
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+V2/Layer 16
+  rotate: false
+  xy: 441, 75
+  size: 105, 148
+  orig: 105, 148
+  offset: 0, 0
+  index: -1
+V2/Layer 7
+  rotate: false
+  xy: 204, 526
+  size: 72, 27
+  orig: 72, 27
+  offset: 0, 0
+  index: -1
+V2/Layer 8
+  rotate: true
+  xy: 238, 432
+  size: 64, 33
+  orig: 64, 33
+  offset: 0, 0
+  index: -1
+V2/Layer 9
+  rotate: true
+  xy: 279, 159
+  size: 169, 160
+  orig: 169, 160
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 320, 365
+  size: 65, 19
+  orig: 65, 19
+  offset: 0, 0
+  index: -1
